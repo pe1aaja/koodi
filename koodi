@@ -1,0 +1,4 @@
+def tulosta():
+  print("okei")
+
+tulosta()
